@@ -37,8 +37,8 @@
 ## 6. Decision Log
 | Decision              | Date       | Rationale                                                                                           |
 |-----------------------|------------|-----------------------------------------------------------------------------------------------------|
-| Timeframe             | YYYY-MM-DD | Focus on players drafted from 1995 to present to capture modern NBA style.                          |
-| Player Selection      | YYYY-MM-DD | Top 60 picks with the addition of notable second-round players to capture high-impact and outliers. |
+| Timeframe             | 2024-11-11 | Focus on players drafted from 1995 to present to capture modern NBA style.                          |
+| Player Selection      | 2024-11-11 | Top 60 picks with the addition of notable second-round players to capture high-impact and outliers. |
 
 ## 7. Version Control and Future Adjustments
 - **Version History**:
