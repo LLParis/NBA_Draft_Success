@@ -1,0 +1,38 @@
+Project Plan for NBA Draft Success Prediction
+1. Define Objectives and Milestones
+Goal: Build a predictive model that forecasts NBA draft success based on historical and modern metrics.
+Primary Objectives:
+Develop a Career Potential Score.
+Build a data pipeline to collect, clean, and store NBA and draft data.
+Implement predictive modeling (e.g., neural networks, ensemble models).
+Create an interactive dashboard for visualization.
+Secondary Objectives:
+Integrate a real-time updating mechanism (e.g., EMA) for in-season adjustments.
+Develop an API to serve predictions.
+2. Outline Key Phases
+Phase 1: Data Collection and Preprocessing
+
+Milestone 1: Set up PostgreSQL database with tables for player attributes, game stats, and draft data.
+Milestone 2: Collect and import historical NBA and draft data (1995-present).
+Milestone 3: Write ETL (Extract, Transform, Load) scripts to automate data collection and cleaning.
+Phase 2: Exploratory Data Analysis (EDA)
+
+Milestone 1: Conduct EDA in Jupyter notebooks to understand trends, distributions, and correlations.
+Milestone 2: Identify key metrics that contribute to draft success and derive new features (e.g., per-game averages, scoring efficiency).
+Phase 3: Modeling and Training
+
+Milestone 1: Set up baseline models (e.g., linear regression, random forest) for benchmarking.
+Milestone 2: Develop and train a neural network model for more sophisticated predictions.
+Milestone 3: Implement model evaluation metrics (e.g., RMSE, accuracy) and tune hyperparameters.
+Phase 4: Exponential Moving Average (EMA) for Real-Time Updates
+
+Milestone 1: Implement EMA to weight recent games more heavily in model predictions.
+Milestone 2: Test EMA’s impact on prediction accuracy and responsiveness.
+Phase 5: Deployment and Visualization
+
+Milestone 1: Create a Flask app with interactive dashboards for visualization and user access.
+Milestone 2: Develop an API endpoint to serve predictions to external applications.
+Phase 6: Documentation and Testing
+
+Milestone 1: Document each part of the project, including data handling, model architecture, and API endpoints.
+Milestone 2: Run tests on the database, model predictions, and API to ensure robustness.
