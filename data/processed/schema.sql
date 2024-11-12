@@ -5,6 +5,7 @@ CREATE TABLE players (
     player_id SERIAL PRIMARY KEY,
     name VARCHAR(100),
     position VARCHAR(10),
+    birth_year INT,
     height_in_inches REAL,
     weight_in_lbs REAL,
     wingspan REAL,
