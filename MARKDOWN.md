@@ -35,10 +35,11 @@
   - For classification: Accuracy and recall.
 
 ## 6. Decision Log
-| Decision              | Date       | Rationale                                                                                           |
-|-----------------------|------------|-----------------------------------------------------------------------------------------------------|
-| Timeframe             | 2024-11-11 | Focus on players drafted from 1995 to present to capture modern NBA style.                          |
-| Player Selection      | 2024-11-11 | Top 60 picks with the addition of notable second-round players to capture high-impact and outliers. |
+| Decision         | Date       | Rationale                                                                                           |
+|------------------|------------|-----------------------------------------------------------------------------------------------------|
+| Timeframe        | 2024-11-11 | Focus on players drafted from 1995 to present to capture modern NBA style.                          |
+| Player Selection | 2024-11-11 | Top 60 picks with the addition of notable second-round players to capture high-impact and outliers. |
+| Database Config  | 2024-11-12 | Chose PostgreSQL for its robustness and scalability; configured local setup in PyCharm to facilitate direct SQL queries and visual data exploration.|
 
 ## 7. Version Control and Future Adjustments
 - **Version History**:
