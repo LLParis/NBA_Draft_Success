@@ -1,14 +1,17 @@
 Project Plan for NBA Draft Success Prediction
 1. Define Objectives and Milestones
 Goal: Build a predictive model that forecasts NBA draft success based on historical and modern metrics.
+
 Primary Objectives:
 Develop a Career Potential Score.
 Build a data pipeline to collect, clean, and store NBA and draft data.
 Implement predictive modeling (e.g., neural networks, ensemble models).
 Create an interactive dashboard for visualization.
+
 Secondary Objectives:
 Integrate a real-time updating mechanism (e.g., EMA) for in-season adjustments.
 Develop an API to serve predictions.
+
 2. Outline Key Phases
 Phase 1: Data Collection and Preprocessing
 
