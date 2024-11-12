@@ -7,8 +7,8 @@
 <h3 align="center">Advanced AI Model to Predict NBA Draft Success Based on Historical and Modern Metrics</h3>
 
 <p align="center">
-  <a href="https://yourwebsite.com">Portfolio</a> •
-  <a href="https://twitter.com/yourtwitter">Twitter</a> •
+  <a href="https://github.com/LLParis">Portfolio</a> •
+  <a href="https://x.com/londonparisvc">Twitter</a> •
   <a href="https://www.linkedin.com/in/londonparis">LinkedIn</a>
 </p>
 
